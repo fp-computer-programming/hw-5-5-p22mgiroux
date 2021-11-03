@@ -31,4 +31,4 @@ else:
       second = word2
       third = word1
       
-print("Alphibetical order: {}, {}, {}.".format(first, second, third)
+print("Alphibetical order: {}, {}, {}.".format(first, second, third))
